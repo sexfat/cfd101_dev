@@ -1,0 +1,27 @@
+//字體
+$font_basic : 16px;
+$font_title : 4em;
+$font_sub-title : 2em;
+$font_weight-default : 400;
+$font_weight-bold : 700;
+
+
+
+
+// 斷點 breakpoint
+
+$desktop: 1200px;
+$laptop: 996px;
+$ipad : 768px;
+$mobile : 450px;
+
+// 斷點 2
+$breakpoint : (
+  large-desktop: 1920px,
+  desktop : 1200px,
+  tablet : 996px,
+  mobile: 720px,
+  xs-mobile: 360px   
+); // map
+
+
